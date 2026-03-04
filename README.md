@@ -1,2 +1,2 @@
 # LoRAT
-TMC_LoRAT
+TNSE_LoRAT
